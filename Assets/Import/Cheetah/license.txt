@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cheetah
+* source:	https://sketchfab.com/3d-models/cheetah-b36caff5df6148c191629c02e6fe36eb
+* author:	hendrikReyneke (https://sketchfab.com/hendrikReyneke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cheetah" (https://sketchfab.com/3d-models/cheetah-b36caff5df6148c191629c02e6fe36eb) by hendrikReyneke (https://sketchfab.com/hendrikReyneke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
